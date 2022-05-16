@@ -74,7 +74,7 @@ nav,
 output,
 ruby,
 section,
-summary,
+synopsis,
 time,
 mark,
 audio,
@@ -89,6 +89,21 @@ video {
     font-size: 14px;
 
 }
+
+a {
+    color: #fff;
+    text-decoration: none;
+    outline: none
+}
+
+a:hover,
+a:active {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
 
 /* HTML5 display-role reset for older browsers */
 article,

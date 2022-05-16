@@ -15,6 +15,7 @@ const Main = () => {
         title
         medium_cover_image
         id
+        synopsis
       }
     }
   `;
